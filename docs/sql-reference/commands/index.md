@@ -17,7 +17,7 @@ Use the functional list below to find commands for a specific task area that you
   Start, stop, and manage Firebolt engines.
 
 * [Data ingest and movement](#data-ingest-and-movement)  
-  Move data between your data lake and Firebolt, and betweeen Firebolt resources.
+  Move data between your data lake and Firebolt and between Firebolt resources.
 
 * [Database objects](#database-objects)  
   DDL. Create, alter, drop, and otherwise manage objects like databases, tables, and views in your Firebolt account.
